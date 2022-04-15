@@ -6,7 +6,6 @@
 ##[Gerenciador de pacotes yarn](https://classic.yarnpkg.com/lang/en/docs/install/)
 ##[Link Git](https://git-scm.com/)
 
-[Documentação de várias stacks num só endereço]()
 
 #Comandos básicos com o git
 * git init
