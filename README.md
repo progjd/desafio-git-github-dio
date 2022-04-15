@@ -13,7 +13,7 @@
 * git commit -m
 * git pull origin main/master
 * git push origin/master
-* git git --ammend -a (modificar o commit mais recente)
+* git --ammend -a (modificar o commit mais recente)
 * git checkout
 * git log
 * git ditf
