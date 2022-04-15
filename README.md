@@ -1,9 +1,11 @@
 # desafio-git-github-dio
 ## links úteis
 
-[saiba mais sobre markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
-[organizando suas tarefas](https://www.notion.so)
-[link git](https://git-scm.com/)
+###[saiba mais sobre markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+
+###[organizando suas tarefas](https://www.notion.so)
+
+###[link git](https://git-scm.com/)
 
 #Comandos básicos com o git
 * git init
