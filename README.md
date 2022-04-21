@@ -1,4 +1,4 @@
-# desafio-git-github-Dio
+# desafio-git-github-netFlixClone-Dio
 ## links úteis
 
 ##[Saiba mais sobre markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
